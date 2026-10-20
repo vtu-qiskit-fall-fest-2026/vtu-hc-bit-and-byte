@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Bit and Byte** · Team ID `VTU-QFF-HC-0122` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Bit and Byte)
+[⬆ Back to Top](#bit-and-byte)
 
 </div>
